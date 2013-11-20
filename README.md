@@ -1,0 +1,4 @@
+booleanIslemleri
+================
+
+Evdeki çalışmalar eklendi
